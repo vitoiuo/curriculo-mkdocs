@@ -8,6 +8,8 @@ theme:
     accent: white
 plugins:
   - search
+  - enumerate-headings
+  - mermaid2
 extra:
   social:
     - icon: fontawesome/brands/linkedin 
