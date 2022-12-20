@@ -3,14 +3,26 @@ site_url: https://victormagalhaes/
 repo_url: https://github.com/vitoiuo/curriculo-mkdocs
 theme: 
   name: material
+  logo: assets/perfil.png
+  favicon: assets/perfil.png
+  features:
+    - header.autohide
   palette:
     primary: black
     accent: white
 plugins:
   - search
+  - social
   - enumerate-headings
   - mermaid2
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
   social:
     - icon: fontawesome/brands/linkedin 
       link: https://www.linkedin.com/in/victor-magalh%C3%A3es-barreto-ti/
+    - icon: fontawesome/brands/github
+      link: https://github.com/vitoiuo
