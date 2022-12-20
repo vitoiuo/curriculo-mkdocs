@@ -8,8 +8,7 @@ theme:
     accent: white
 plugins:
   - search
-  - enumerate-headings
 extra:
   social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/victor-magalh%C3%A3es-barreto-ti/
