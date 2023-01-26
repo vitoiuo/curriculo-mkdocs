@@ -11,7 +11,29 @@
 Olá, sou **Victor Magalhães**! Formado no IFMG Campus São João Evangelista, onde também cursei técnico integrado em informática :computer:. Curiosamente, me formei jurando de pé junto que, **definitivamente**, não daria seguimento na área de tecnologia. O destino é ardiloso e trapaceiro :new_moon_with_face:.
 
 A causa dessa contradição foi a minha inscrição no programa [Busertech](https://blog.buser.com.br/novidades/buser-lanca-programa-capacitacao-profissionais-tecnologia/){:target="_blank"}, processo onde, disputando com mais 2000 pessoas, fui capaz de ser um dos 50 classificados :trophy:. Essa oportunidade fez crescer em mim uma vontade de fazer uma mudança abrupta na minha vida e posso dizer que foi uma das melhores decisões da minha vida. Me descobri e cresci pessoal e profissionalmente :face_with_hand_over_mouth: (*um não para o meu eu do passado*).
-## History :material-history: (doing...)
+
+## Carreira :material-history:
+
+**Estagiário de desenvolvimento web full stack**
+
+*[Buser Brasil](https://www.buser.com.br/){:target="_blank"} (Abr/22 - Hoje)*
+
+## O que eu quero :simple-googleanalytics:
+Daqui pra frente quero ser capaz de desenvolver ideias que causem um impacto positivo na vida das pessoas :up:. É o que faz sentido pra mim, tentar transformar a vida das pessoas, nem que seja arrancando um sorriso :smirk_cat:.
+
+Além disso, quero começar a participar de eventos de tecnolgia e até me arriscar numas palestrinhas :scream_cat:.
+
+
+## Ferramentas que me são familiar :octicons-gear-16:
+
+```json
+{
+  "FrontEnd": [ "Javascript", "VueJs", "NuxtJs", "HTML5", "CSS3" ],
+  "BackEnd": [ "Python", "Django", "SQL" ],
+}
+```
+
+## Projetos :material-network-strength-3: (doing...)
 
 Alguns projetos que eu já fiz:
 
@@ -20,11 +42,6 @@ Alguns projetos que eu já fiz:
 - [Wordle](https://github.com/vitoiuo/JS-Wordle){:target="_blank"}: jogo onde os jogadores tentam adivinhar uma palavra de cinco letras em seis tentativas. O feedback, na forma de peças coloridas, é dado para cada palpite, informando aos jogadores quais letras estão na posição correta e quais estão em outras posições da palavra-resposta;
 
 - [JSONFlix](https://github.com/caiopeternela/jsonflix){:target="_blank"}: desenvolvida com a ajuda do [Caio Peternela](https://github.com/caiopeternela/jsonflix){:target="_blank"}, é uma API, feita com o framework Python Django, que busca items do catálogo da Netflix com alguns filtros capazes de fazer a busca nessa imensa base de dados mais precisa.
-
-## O que eu quero :simple-googleanalytics:
-Daqui pra frente quero ser capaz de desenvolver ideias que causem um impacto positivo na vida das pessoas :up:. É o que faz sentido pra mim, tentar transformar a vida das pessoas, nem que seja arrancando um sorriso :smirk_cat:.
-
-Além disso, quero começar a participar de eventos de tecnolgia e até me arriscar numas palestrinhas :scream_cat:.
 
 ## Estudos :material-book:
 
